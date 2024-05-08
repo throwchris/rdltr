@@ -1,0 +1,36 @@
+body {
+    
+    background-color: black;
+    color: white;
+    
+  }
+  
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+
+  #navbar {
+    /* Add your default navbar styles here */
+    background-color: black;
+    color: white;
+  }
+ 
+
+  #navbar.light-mode {
+  background-color: white; /* Change to black */
+  color: black; /* Change to white */
+}
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+ 
+
+  
+
+ 
+
+   
