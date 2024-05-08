@@ -5,9 +5,9 @@ body {
     
   }
   
-  #navbar.light-mode {
-  background-color: white; /* Change to white*/
-  color: black; /* Change to black */
+  .light-mode {
+    background-color:white;
+    color: black;
   }
 
   #navbar {
@@ -17,7 +17,7 @@ body {
   }
  
 
- #navbar.light-mode {
+  #navbar.light-mode {
   background-color: white; /* Change to black */
   color: black; /* Change to white */
 }
@@ -26,7 +26,6 @@ body {
     max-width: 100%;
     height: auto;
   }
-
  
 
   
