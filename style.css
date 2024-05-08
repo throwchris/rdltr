@@ -6,7 +6,7 @@ body {
   }
   
   #navbar.light-mode {
-  background-color: #d8e8d8; /* Change to lightgreen*/
+  background-color: white; /* Change to white*/
   color: black; /* Change to black */
   }
 
@@ -18,8 +18,8 @@ body {
  
 
  #navbar.light-mode {
-  background-color: #d8e8d8; /* Change to lightgreen */
-  color: black; /* Change to black */
+  background-color: white; /* Change to black */
+  color: black; /* Change to white */
 }
 
   img {
