@@ -5,9 +5,9 @@ body {
     
   }
   
-  .light-mode {
-    background-color: white;
-    color: black;
+  #navbar.light-mode {
+  background-color: #d8e8d8; /* Change to black */
+  color: black; /* Change to white */
   }
 
   #navbar {
@@ -17,8 +17,8 @@ body {
   }
  
 
-  #navbar.light-mode {
-  background-color: white; /* Change to black */
+ #navbar.light-mode {
+  background-color: #d8e8d8; /* Change to black */
   color: black; /* Change to white */
 }
 
